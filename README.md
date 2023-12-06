@@ -73,3 +73,64 @@ Essas são configurações mínimas e podem variar dependendo das aplicações e
 
 Dado que nossa aplicação faz uso de modelos 3D com uma quantidade reduzida de polígonos, isso contribui significativamente para alcançarmos uma taxa de quadros (FPS) mais elevada. Isso é crucial em uma aplicação de Realidade Virtual (VR), onde a Game Engine precisa renderizar os dois olhos do usuário para proporcionar a imersão adequada.
 
+
+# Manual do Usuário - Executável Unity
+
+### Requisitos do Sistema
+
+Antes de começar, certifique-se de que seu sistema atenda aos seguintes requisitos:
+
+- **Sistema Operacional:** Windows 10 / macOS / Linux
+- **Placa de Vídeo:** Compatível com DirectX 11 / Metal / OpenGL 4.5
+- **Memória RAM:** 8 GB ou mais
+- **Espaço em Disco:** 2 GB disponíveis
+
+## Instalação e Configuração
+
+1. **Clone o Repositório:**
+   - Abra o terminal ou prompt de comando.
+   - Execute o seguinte comando:
+     ```bash
+     git clone https://github.com/Ddieguin/CG_VR
+     ```
+
+2. **Instale o Unity Hub:**
+   - Baixe e instale o Unity Hub a partir do site oficial da Unity (https://unity3d.com/unity/whats-new/2020.3.27).
+
+3. **Adicione o Projeto ao Unity Hub:**
+   - Abra o Unity Hub.
+   - Clique em "Add" e selecione o diretório do projeto clonado.
+
+4. **Verifique a Versão do Unity:**
+   - Certifique-se de que o projeto está configurado para a versão correta do Unity. Abra o Unity Hub, selecione o projeto e verifique a versão na guia "Instalado".
+
+5. **Instale as Dependências:**
+   - Dependendo do seu projeto, pode ser necessário instalar bibliotecas, pacotes ou assets adicionais. Consulte a documentação do projeto para obter informações específicas.
+
+## Execução do Projeto
+
+Após a configuração inicial, você está pronto para executar o projeto.
+
+1. **Abra o Projeto no Unity:**
+   - No Unity Hub, selecione o projeto e clique em "Abrir Projeto".
+
+2. **Configure as Configurações do Projeto:**
+   - Verifique e ajuste as configurações do projeto, como resolução, qualidade gráfica, etc.
+
+3. **Inicie a Execução:**
+   - Pressione o botão "Play" no canto superior da interface do Unity para iniciar a execução do projeto.
+
+4. **Modo Desenvolvedor:**
+   - Se necessário, ative o modo desenvolvedor ou qualquer configuração específica para o desenvolvimento. Consulte a documentação do projeto para obter informações detalhadas.
+
+## Solução de Problemas Comuns
+
+Se encontrar problemas durante a configuração ou execução, consulte a seção de solução de problemas da documentação do projeto. Certifique-se de verificar os requisitos do sistema e as dependências necessárias.
+
+## Conclusão
+
+Agora você está pronto para explorar o projeto Unity! Se precisar de mais ajuda ou informações, consulte a documentação do projeto ou entre em contato com a equipe de suporte.
+
+Divirta-se desenvolvendo!
+
+
