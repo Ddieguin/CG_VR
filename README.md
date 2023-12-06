@@ -123,14 +123,5 @@ Após a configuração inicial, você está pronto para executar o projeto.
 4. **Modo Desenvolvedor:**
    - Se necessário, ative o modo desenvolvedor ou qualquer configuração específica para o desenvolvimento. Consulte a documentação do projeto para obter informações detalhadas.
 
-## Solução de Problemas Comuns
-
-Se encontrar problemas durante a configuração ou execução, consulte a seção de solução de problemas da documentação do projeto. Certifique-se de verificar os requisitos do sistema e as dependências necessárias.
-
-## Conclusão
-
-Agora você está pronto para explorar o projeto Unity! Se precisar de mais ajuda ou informações, consulte a documentação do projeto ou entre em contato com a equipe de suporte.
-
-Divirta-se desenvolvendo!
 
 
